@@ -1,3 +1,8 @@
+---
+title: Qanapi User Documentation
+description: 'A detailed guide on how to navigate and use Qanapi'
+---
+
 # **Qanapi User Documentation**
 
 ## **Overview**
