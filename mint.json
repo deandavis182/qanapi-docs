@@ -49,7 +49,12 @@
     }
   ],
   "navigation": [
-    
+    {
+      "group": "Get Started",
+      "pages": [
+        "QANAPI-DOCUMENTATION",
+      ]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
