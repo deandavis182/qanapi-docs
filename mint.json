@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Qanapi Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@qanapi.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://qanapi.com/login"
   },
   "tabs": [
     {
